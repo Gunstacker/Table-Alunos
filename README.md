@@ -2,8 +2,8 @@
 
 O programa basicamente gera uma lista com este formato:
 
-<h4>Seq     Matr.    Nome    Idade    turma</h4>
-<h4>001     9999     José     38      Adulto</h4>
+<h4> Seq     Matr.    Nome    Idade    turma </h4>
+<h4> 001     9999     José     38      Adulto </h4>
 
 
 <h2><li> Os critérios usados para definir as turma foram de </li></h2>
