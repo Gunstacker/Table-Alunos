@@ -7,7 +7,7 @@ O programa basicamente gera uma lista com este formato:
 
 
 <h2><li> Os critérios usados para definir as turma foram de </li></h2>
-<li> <= 10 Infância </li
+<li> <= 10 Infância </li>
 <li> >= 11 && <= 17 Adolescência </li
 <li> >= 18 Adulto </li>
 
