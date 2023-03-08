@@ -2,8 +2,29 @@
 
 O programa basicamente gera uma lista com este formato:
 
-<h4> Seq     Matr.    Nome    Idade    turma </h4>
-<h4> 001     9999     José     38      Adulto </h4>
+<table>
+      <tr>
+        <td>Seq</td>
+        <td>Matr.</td>
+        <td>Nome</td>
+        <td>Idade</td>
+        <td>Turma</td>
+      </tr>
+      <tr>
+        <td>001, Coluna 1</td>
+        <td>Linha 2, Coluna 2</td>
+        <td>Linha 2, Coluna 3</td>
+        <td>Linha 2, Coluna 4</td>
+        <td>Linha 2, Coluna 5</td>
+      </tr>
+      <tr>
+        <td>Linha 3, Coluna 1</td>
+        <td>Linha 3, Coluna 2</td>
+        <td>Linha 3, Coluna 3</td>
+        <td>Linha 3, Coluna 4</td>
+        <td>Linha 3, Coluna 5</td>
+      </tr>
+    </table>
 
 
 <h2><li> Os critérios usados para definir as turma foram de </li></h2>
